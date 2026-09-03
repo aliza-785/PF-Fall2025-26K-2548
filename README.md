@@ -6,11 +6,11 @@ Programming Fundamentals Lab Work-Fall 2025
 
 ### My Goals
 
-**This is a line of bold text.**  
-*This is a line of italic text.*  
-***This is a line that is both bold and italic.***
+**I am an undergraduate student studying Data Science at FAST-NUCES.**  
+*I am working on strengthening my core programming fundamentals in C and Python.*  
+***I am passionate about exploring machine learning, data analytics, and mathematical problem-solving.***
 
-~~This is a line of strikethrough text.~~
+~~I used to struggle with Git commands, but now I use them daily.~~
 
 > "First, solve the problem. Then, write the code." — John Johnson
 
@@ -36,5 +36,4 @@ Run `git status` in your terminal to check repository status.
 ```bash
 git add .
 git commit -m "Updated README"
-git push=
- 
+git push
