@@ -6,8 +6,8 @@ Programming Fundamentals Lab Work-Fall 2025
 
 ### My Goals
 
-**This is a line of bold text.**
-*This is a line of italic text.*
+**This is a line of bold text.**  
+*This is a line of italic text.*  
 ***This is a line that is both bold and italic.***
 
 ~~This is a line of strikethrough text.~~
@@ -37,5 +37,3 @@ Run `git status` in your terminal to check repository status.
 git add .
 git commit -m "Updated README"
 git push
-<img width="1893" height="843" alt="image" src="https://github.com/user-attachments/assets/9e1ae83c-6f27-428d-85cd-86219f003c3f" />
-<img width="1893" height="843" alt="image" src="https://github.com/user-attachments/assets/cf2dedb7-9bc6-49da-b7d9-e2a1c003e7b6" />
